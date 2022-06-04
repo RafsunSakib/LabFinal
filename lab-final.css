@@ -1,0 +1,36 @@
+body {
+    margin: 0px 50px 0px 50px;
+}
+
+.left{
+    float: left;
+    width:65%;
+}
+.right{
+    float: right;
+    width:35%;
+    margin-top: 50px;
+    
+}
+img{
+    width:300px;
+    height:335px;
+    
+}
+.table{
+    margin: 0px 0px 0px 0px;
+    padding: 240px 0px 0px 0px;
+}
+td, th {
+    border-bottom: 1.5px solid #dddddd;
+    text-align: left;
+    padding: 8px 80px 8px 8px;
+  }
+  a{
+      text-decoration:none;
+  }
+  .footer{
+      width:100%;
+
+      float:left;
+  }
